@@ -1,5 +1,6 @@
 # 💫 About Me:
 I have a degree in Computer Engineering with solid knowledge in web development and quality assurance (QA), I am passionate about technology and process optimization, with skills in analysis and requirements planning.
+
 I am looking for my first work experience in a dynamic environment where I can apply my knowledge and continue my professional growth.
 
 
