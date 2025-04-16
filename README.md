@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recientemente titulado en Ingeniería en Informática con sólidos conocimientos en desarrollo web y aseguramiento de calidad (QA), Apasionado por la tecnología y la optimización de procesos, con habilidades en análisis y planificación de requerimientos.<br><br>Busco mi primera experiencia laboral en un ambiente dinámico donde pueda aplicar mis conocimientos y continuar mi crecimiento profesional.
+titulado en Ingeniería en Informática con sólidos conocimientos en desarrollo web y aseguramiento de calidad (QA), Apasionado por la tecnología y la optimización de procesos, con habilidades en análisis y planificación de requerimientos.<br><br>Busco mi primera experiencia laboral en un ambiente dinámico donde pueda aplicar mis conocimientos y continuar mi crecimiento profesional.
 
 
 ## 🌐 Socials:
