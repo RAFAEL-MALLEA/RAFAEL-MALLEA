@@ -1,5 +1,11 @@
 # 💫 About Me:
-I have a degree in Computer Engineering with solid knowledge in web development and quality assurance (QA), I am passionate about technology and process optimization, with skills in analysis and requirements planning.<br><br>I am looking for my first work experience in a dynamic environment where I can apply my knowledge and continue my professional growth.
+Ingeniero en Informatica titulado con honores, con experiencia en soporte TI, infraestructura tecnologica
+y desarrollo de software. He participado en proyectos utilizando Python, React, Next.js, WordPress y
+PostgreSQL, ademas de brindar soporte tecnico en Active Directory, redes LAN/VLAN, administracion
+de infraestructura y sistemas de videovigilancia Hikvision.
+Me especializo en resolver problemas tecnologicos, optimizar procesos y desarrollar soluciones que mejoran
+la eficiencia operacional. Me considero una persona proactiva, orientada al aprendizaje continuo y al
+trabajo colaborativo.
 
 
 ## 🌐 Socials:
